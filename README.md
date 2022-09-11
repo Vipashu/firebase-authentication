@@ -1,5 +1,5 @@
 User authentication using React.js and Firebase
-Demo at https://user-authentication-vipashu.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
